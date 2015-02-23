@@ -60,7 +60,7 @@ describe('Car', function() {
 	}
 	    else{
             testCar.canSwim().should.equal("false");
-	}	
-        })
+	}
+	})
     })	
 });
